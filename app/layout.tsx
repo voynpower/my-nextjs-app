@@ -1,3 +1,4 @@
+import "../styles/global.css"
 import Navigation from "./components/navigation"
 export const metadata = {
   description: 'The Best Movies The Best Framework',

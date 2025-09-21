@@ -28,7 +28,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "app/components/navigation.module.css", "app/components/movie-detail-videos.css"  ],
   "exclude": [
     "node_modules"
   ]
