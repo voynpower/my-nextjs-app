@@ -80,6 +80,7 @@ app/
 - **Navigation State**: Real-time active state indicators
 - **Counter Component**: Interactive state management example
 
+
 ## 🔧 Available Scripts
 
 - `npm run dev` - Start development server
@@ -135,3 +136,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <strong>Made with ❤️ and Next.js 14</strong>
 </div>
+
+
+
+# 🔥 Newly Added Features
+- CSS design fully updated.
+- Added `MovieDetails` component.
+- Implemented `generateMetadata` function (SEO-friendly dynamic title).
+
+## 📂 Project Structure
+components/
+├── movie-info.tsx  
+├── movie-videos.tsx  
+app/  
+└── movies/[id]/page.tsx  
+
